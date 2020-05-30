@@ -1,0 +1,166 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  line-height: 2.5rem;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.phone-icon {
+  color: #fff;
+  margin: 0.5rem;
+}
+
+.phone-icon: hover {
+  color: #fff;
+}
+
+i {
+  color: #ef8172;
+  margin: 2% 2% 5%;
+}
+
+i:hover {
+  transform: scale(1.5);
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 9px;
+  font-weight: 400;
+}
+
+.container-fluid {
+  padding: 3% 11%;
+}
+
+.title-desc {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.title-img {
+  width: 100%;
+  height: 75%;
+}
+
+.services-box {
+  text-align: center;
+  padding: 3%;
+}
+
+.icon-style {
+  color: #ef8172;
+  margin-bottom: 2rem;
+}
+
+.icon-style:hover {
+  color: #ff4c68;
+}
+
+.press-logo {
+  width: 10%;
+  margin: 20px 10px 50px;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+#services {
+  padding: 7% 15%;
+}
+
+#experiences {
+  background-color: #ef8172;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 3%;
+}
+
+#process {
+  padding: 100px;
+  text-align: center;
+}
+
+.card-header {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.process-col {
+  padding: 3% 2%;
+}
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.btn {
+  margin-top: 3%;
+}
+
+.btn:hover {
+  background-color: #ef8172;
+  border: none;
+  transform: scale(1.2);
+}
+
+
+#footer {
+  padding: 7% 15% 2%;
+  text-align: center;
+}
+
+@media (max-width: 1020px) {
+
+}
